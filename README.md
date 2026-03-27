@@ -15,7 +15,7 @@ A complete hardware implementation of a 2-deck Blackjack game written in VHDL fo
 - Proper ace handling (automatic 11→1 conversion when busting)
 - Card counting/tracking to prevent duplicate draws
 - Hardware button debouncing (20ms)
-- Seven-segment display score output
+- Seven-segment display "money" output
 - LED indicators for game state and results
 - 2-second shuffle animation
 
