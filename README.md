@@ -45,8 +45,8 @@ A complete hardware implementation of a 2-deck Blackjack game written in VHDL fo
       DEALER         PLAYER
 ```
 
-- **HEX5-HEX4:** Player's current score (00-31)
-- **HEX7-HEX6:** Dealer's current score (00-31)
+- **HEX5-HEX4:** Player's current score (00-21)
+- **HEX7-HEX6:** Dealer's current score (00-21)
 
 ## LED Indicators
 
